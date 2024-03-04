@@ -1,0 +1,32 @@
+body{
+    background: rgb(183, 194, 255);
+    font-family: Tahoma, 'Geneva', Verdana ;
+    align-items: end;
+}
+button{
+   border-radius: 200px;
+   width:250px;
+  font-family:'Courier New', Courier, monospace;
+  font-size: 20px;
+  background:rgb(112, 112, 201);
+}
+#header{
+    background-color: rgb(126, 133, 236);
+    height:100px;
+  position:fixed;
+  width:100%;
+  font-size: 60px;
+  text-align:center;
+  color: rgb(50, 43, 77);
+}p{
+    font-size: 15px;
+    font-family: monospace;
+}
+.copy_right_footer{
+  text-align: center;
+  background-color: rgb(168, 182, 255);
+  position: fixed;
+  height:70px;
+  width:100%;
+  font-family: system-ui, -apple-system, 'BlinkMacSystemFont', Roboto, Oxygen, Ubuntu, Cantarell, Open Sans, Helvetica Neue, sans-serif;
+}
